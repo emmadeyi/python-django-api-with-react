@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
-djago-rest-knox = "*"
+django-rest-knox = "*"
 
 [requires]
 python_version = "3.6"
